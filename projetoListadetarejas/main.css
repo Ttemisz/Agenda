@@ -1,0 +1,30 @@
+body{
+    background-color: darkkhaki;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+    font-family: "Francois One", sans-serif;
+}
+
+.container{
+    background-color: aliceblue;
+    margin-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+ul{font-style: italic;}
+
+
+.riscar{
+    text-decoration: line-through;
+}
+
+
+
